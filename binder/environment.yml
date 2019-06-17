@@ -26,7 +26,6 @@ dependencies:
 - pyyaml
 - traittypes==0.2.1
 - invoke=0.21
-- tkinter
 - scipy
 # C++ Kernel
 - xeus-cling=0.5.1
