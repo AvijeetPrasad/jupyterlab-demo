@@ -26,6 +26,8 @@ dependencies:
 - pyyaml
 - traittypes==0.2.1
 - invoke=0.21
+- tkinter
+- scipy
 # C++ Kernel
 - xeus-cling=0.5.1
 - xtensor=0.20.7
@@ -35,3 +37,4 @@ dependencies:
 # R Kernel
 - r-ggplot2
 - r-irkernel=0.8.15
+
